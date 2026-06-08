@@ -11,7 +11,7 @@
         "id": "72485ae0a45f8e07",
         "type": "inject",
         "z": "f6a13399a3e9f3d4",
-        "name": "Hola ",
+        "name": "saludo",
         "props": [
             {
                 "p": "payload"
@@ -28,8 +28,8 @@
         "topic": "",
         "payload": "Hola mundo",
         "payloadType": "str",
-        "x": 530,
-        "y": 220,
+        "x": 310,
+        "y": 180,
         "wires": [
             [
                 "d01e9d13bd51b71c"
@@ -48,8 +48,8 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 720,
-        "y": 220,
+        "x": 480,
+        "y": 180,
         "wires": []
     }
 ]
